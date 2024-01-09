@@ -1,5 +1,5 @@
 //comment for git pull test #2
-const arr = [1, 3, 2, 4, 5, 6, 7];
+const arr = [1, 3, 2, 4, 5, 6, 7,8,9,10,11];
 
 const test = 0;
 
