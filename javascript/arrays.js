@@ -1,9 +1,9 @@
 //comment for git pull test #2
-const arr = [1, 3, 2, 4, 5, 3, 6, 7];
+const arr = [1, 3, 2, 4, 5, 6, 7];
 
 const test = 0;
 
-function indexArr()
+function indexArr() 
 {
     console.log(arr[0]);
 }
